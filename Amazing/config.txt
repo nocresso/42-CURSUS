@@ -1,0 +1,9 @@
+WIDTH=20
+HEIGHT=15
+ENTRY=0,0
+EXIT=14, 3
+OUTPUT_FILE=maze.txt
+ALGORITHM=kruskal
+PERFECT=true
+# SOLVER=astar
+# SEED=42
