@@ -163,13 +163,4 @@ The graphical interface is built with **Pygame** and launched automatically when
 The animation makes it easy to visualize bottlenecks: you can see drones queuing at high-traffic hubs, being rerouted, or stalling when links are saturated. This gives immediate intuition about how the pathfinding algorithm behaves on different map topologies, which would be much harder to infer from terminal output alone.
  
 Drones that reach the end zone remain visible at that position for the rest of the simulation, rather than disappearing abruptly, making it clear how many have arrived.
- 
----
- 
-## Resources
- 
-### Pathfinding & graph algorithms
 
-- [Python `heapq` module documentation](https://docs.python.org/3/library/heapq.html)
-- [Pygame documentation](https://www.pygame.org/docs/)
-- AI was used to understand algorithm concepts, debug errors, docstrings and learn unfamiliar libraries such as pygame and heapq.
