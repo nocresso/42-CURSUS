@@ -11,7 +11,8 @@ Key features:
 - Pathfinding engine based on a modified Dijkstra algorithm
 - Turn-based simulation engine with conflict resolution
 - Graphical visualization using Pygame
-
+  
+![Demo](assets/simulation.gif)
  
 ## Instructions
  
