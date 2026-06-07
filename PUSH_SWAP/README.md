@@ -5,6 +5,8 @@ push_swap is an algorithmic project whose goal is to sort a list of integers usi
 
 The project focuses on algorithmic complexity, decision-making based on input characteristics, and clean, well-structured C code that follows the 42 Norm.
 
+![push_swap banner](assets/banner.svg)
+
 1. Program Behavior
 
 Only a limited set of stack operations is allowed:
